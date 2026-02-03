@@ -1,8 +1,8 @@
 ---
-name: Bug report
-about: Create a report to help us improve THIS PROJECT
-title: "[LOGICAL ERROR]"
-labels: bug, documentation, invalid
+name: Documentation Error report
+about: Create a report to help us improve documentation
+title: "[DOCUMENTATION ERROR]"
+labels: documentation
 assignees: Natril
 
 ---
